@@ -28,8 +28,8 @@
         {
             "entityId": "201911011330",
             "name": "Training Portal",
-            "contentUrl": "https://<YOUR TENANT>.sharepoint.com/_layouts/15/teamslogon.aspx?SPFX=true&dest=/sites/<LEARNING PATHWAYS SITE>",
-            "websiteUrl": "https://<YOUR TENANT>.sharepoint.com/sites/<LEARNING PATHWAYS SITE>",
+            "contentUrl": "https://lancelotdulac.sharepoint.com/_layouts/15/teamslogon.aspx?SPFX=true&dest=/sites/https://lancelotdulac.sharepoint.com/sites/Amir'stest",
+            "websiteUrl": "https://lancelotdulac.sharepoint.com/sites/https://lancelotdulac.sharepoint.com/sites/Amir'stest",
             "scopes": [
                 "personal"
             ]
@@ -37,8 +37,8 @@
         {
             "entityId": "201911011335",
             "name": "Teams Training",
-            "contentUrl": "https://<YOUR TENANT>.sharepoint.com/_layouts/15/teamslogon.aspx?SPFX=true&dest=/sites/<LEARNING PATHWAYS SITE>/SitePages/Get-started-with-Microsoft-Teams.aspx",
-            "websiteUrl": "https://<YOUR TENANT>.sharepoint.com/sites/<LEARNING PATHWAYS SITE>/SitePages/Get-started-with-Microsoft-Teams.aspx",
+            "contentUrl": "https://lancelotdulac.sharepoint.com/_layouts/15/teamslogon.aspx?SPFX=true&dest=/sites/https://lancelotdulac.sharepoint.com/sites/Amir'stest/SitePages/Get-started-with-Microsoft-Teams.aspx",
+            "websiteUrl": "https://lancelotdulac.sharepoint.com/sites/https://lancelotdulac.sharepoint.com/sites/Amir'stest/SitePages/Get-started-with-Microsoft-Teams.aspx",
             "scopes": [
                 "personal"
             ]
@@ -46,8 +46,8 @@
         {
             "entityId": "201911011340",
             "name": "OneDrive Basics",
-            "contentUrl": "https://<YOUR TENANT>.sharepoint.com/_layouts/15/teamslogon.aspx?SPFX=true&dest=/sites/<LEARNING PATHWAYS SITE>/SitePages/Get-started-with-OneDrive.aspx",
-            "websiteUrl": "https://<YOUR TENANT>.sharepoint.com/sites/<LEARNING PATHWAYS SITE>/SitePages/Get-started-with-OneDrive.aspx",
+            "contentUrl": "https://lancelotdulac.sharepoint.com/_layouts/15/teamslogon.aspx?SPFX=true&dest=/sites/https://lancelotdulac.sharepoint.com/sites/Amir'stest/SitePages/Get-started-with-OneDrive.aspx",
+            "websiteUrl": "https://lancelotdulac.sharepoint.com/sites/https://lancelotdulac.sharepoint.com/sites/Amir'stest/SitePages/Get-started-with-OneDrive.aspx",
             "scopes": [
                 "personal"
             ]
@@ -68,6 +68,6 @@
       ],
       "webApplicationInfo": {
         "id": "00000003-0000-0ff1-ce00-000000000000",
-        "resource": "https://<YOUR TENANT>.sharepoint.com"
+        "resource": "https://<lancelotdulac>.sharepoint.com"
     }
 }
